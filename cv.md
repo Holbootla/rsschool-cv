@@ -20,6 +20,7 @@ learnability, perceverance, determenation & persistence, punctuality, diligence,
 * self-education and improvement in IT-technologies
 
 ## Skills
+
 HTML | CSS | JavaScript | GIT
 base | base | base | base
 
