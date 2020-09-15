@@ -1,0 +1,60 @@
+body {
+    max-width: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: 20px 20px 20px 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
+header div {
+    margin: auto 30px auto 30px;
+}
+
+header div img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+}
+
+table {
+    width: 100%;
+}
+
+table,
+th,
+td {
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    text-align: center;    
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.about {
+    display: flex;
+    justify-content: space-around;
+}
+
+#bntu {
+    margin: 0px 10px 0px 0px;
+}
+
+#alatan {
+    margin: 0px 0px 0px 10px;
+}
+
+div {
+    margin-bottom: 30px;
+}
+
+#social {
+    display: block;
+    margin-bottom: 1em;
+}
