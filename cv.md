@@ -1,6 +1,6 @@
-# Nickita Lashch
+# Nikita Lashch
 
-**Email:** Holbootla@gmail.com **Discord:** Holbootla **Phone:** +375336630130
+**Email:** Nikita.Lashch@gmail.com | **Discord:** Holbootla | **Phone:** +375336630130
 ___
 ___
 ## About me
@@ -33,8 +33,8 @@ ___
 
 ___
 ___
-## Cources completed
-* Stormnet - Sowtware Manual Testing
+## Courses completed
+* Stormnet - Software Manual Testing
 * Rolling Scopes School - JavaScript (in progress)
 ___
 ___
