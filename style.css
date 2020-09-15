@@ -11,12 +11,13 @@ header {
 }
 
 header div {
-    margin: 30px;
+    margin: auto 30px auto 30px;
 }
 
 header div img {
     width: 200px;
     height: 200px;
+    border-radius: 50px;
 }
 
 table {
@@ -47,4 +48,13 @@ footer {
 
 #alatan {
     margin: 0px 0px 0px 10px;
+}
+
+div {
+    margin-bottom: 30px;
+}
+
+#social {
+    display: block;
+    margin-bottom: 1em;
 }
