@@ -13,7 +13,7 @@
     - setting of touristic booking systems
 
 ## Main personal qualities
-learnability, perceverance, determenation & persistence, punctuality, diligence, pedantry, non-conflict
+learnability, perseverance, determination & persistence, punctuality, diligence, pedantry, non-conflict
 
 ## Goals & priorities
 * getting a **Junior frontend developer** position
