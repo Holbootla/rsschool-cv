@@ -29,7 +29,7 @@ ___
 ___
 ## Skills
 HTML | CSS | JavaScript | GIT
-:---: | :---: | :---: | :---:
+--- | --- | --- | ---
 base | base | base | base
 
 ___
