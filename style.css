@@ -58,3 +58,12 @@ div {
     display: block;
     margin-bottom: 1em;
 }
+
+.contacts {
+    list-style: none;
+    padding: 0;
+}
+
+.contacts li {
+    margin-bottom: 1em;
+}
